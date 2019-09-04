@@ -1,20 +1,20 @@
-var api = 'http://192.99.206.62:8117'
+var api = 'http://ducktowncrypto.zapto.org:8117'
 
-var api_blockexplorer = 'http://grubtoken.tippyturtle.com/:8499'
+var api_blockexplorer = 'http://daemonhost.com:11898'
 
-var poolHost = '192.99.206.62'
+var poolHost = 'poolhost.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
-var email = 'grubtokendevs@gmail.com'
+var email = 'support@poolhost.com'
 
-var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD']
+var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
 var easyminerDownload = 'https://github.com/zone117x/cryptonote-easy-miner/releases/'
 
-var blockchainExplorer = 'http://grubtoken.tippyturtle.com/{symbol}/block/{id}'
+var blockchainExplorer = 'http://chainradar.com/{symbol}/block/{id}'
 
-var transactionExplorer = 'http://grubtoken.tippyturtle.com/{symbol}/transaction/{id}'
+var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
 
 var themeCss = 'themes/default-theme.css'
 

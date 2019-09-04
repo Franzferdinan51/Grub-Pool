@@ -13,7 +13,7 @@ a:hover {
 body {
   font-size: 14px;
   line-height: 1.428571429;
-  color: #6f6e6e;
+  color: #bd9494;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 h1,
@@ -38,12 +38,12 @@ h3,
   margin-bottom: 14px;
 }
 .navbar-inverse {
-  background-color: #2D5768;
+  background-color: purple;
   border-color: #f9f9f8;
   border-width: 0;
 }
 .navbar-inverse .container {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: purple;
 }
 .navbar-inverse .navbar-brand {
   color: #fff;
@@ -284,7 +284,7 @@ footer {
 ************************************************/
 .btn-primary {
   color: #ffffff;
-  background-color: #03a678;
+  background-color: purple;
   border-color: #03a678;
 }
 .btn-primary:hover,
@@ -293,7 +293,7 @@ footer {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #027454;
+  background-color: purple;
   border-color: #026a4d;
 }
 .btn-primary:active,
